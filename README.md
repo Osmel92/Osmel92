@@ -1,4 +1,4 @@
-# 👋 ¡Hola, soy Osmel Alcina! | Técnico en Informática & Desarrollador Web
+# 👋 ¡Hola, soy Osmel92! | Técnico en Informática & Desarrollador Web
 
 
 ![Encabezado de Osmel Alcina - Tu Aliado Tecnológico](./header.png)
