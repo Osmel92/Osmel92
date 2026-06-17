@@ -1,7 +1,7 @@
 # 👋 ¡Hola, soy Osmel92! | Técnico en Informática & Desarrollador Web
 
 
-![Encabezado de Osmel Alcina - Tu Aliado Tecnológico](./header.png)
+![Encabezado de Osmel Alcina - Tu Aliado Tecnológico](./header.webp)
 
 
 <p align="center">
