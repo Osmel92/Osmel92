@@ -1,7 +1,7 @@
 # 👋 ¡Hola, soy Osmel92! | Técnico en Informática & Desarrollador Web
 
 
-![Encabezado de Osmel Alcina - Tu Aliado Tecnológico](./header.webp)
+![Encabezado de Osmel Alcina - Tu Aliado Tecnológico](header/header.webp)
 
 
 <p align="center">
@@ -19,7 +19,7 @@ Desde que inicié mi camino en la tecnología, descubrí que mi verdadera pasió
 
 Mi objetivo es ser el aliado tecnológico que se encarga de los bits, los píxeles y el código, permitiendo que los pequeños negocios y emprendedores se digitalicen y funcionen al 100%.
 
-* 👀 **Intereses:** Desarrollo web enfocado a conversión, automatización de procesos, IA local y optimización de sistemas.
+* 👀 **Intereses:** Desarrollo web y diseño gráfico.
 * 🌱 **Aprendizaje continuo:** Siempre explorando nuevas herramientas y tecnologías para expandir mi stack profesional.
 
 ---
@@ -46,7 +46,7 @@ Mi objetivo es ser el aliado tecnológico que se encarga de los bits, los píxel
 
 ### 📫 Conéctate conmigo
 
-* 💼 Puedes ver mis proyectos y trayectoria en [LinkedIn](TU_ENLACE_AQUÍ)
+* 💼 Puedes ver mis proyectos y trayectoria en [LinkedIn](www.linkedin.com/in/osmel-alcina-139606134)
 * 💬 ¿Tienes un proyecto en mente o necesitas soporte técnico? ¡Escríbeme!
 
 ---
